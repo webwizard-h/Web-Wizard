@@ -85,6 +85,7 @@ img{
     transform: translateX(-1cm) translateY(-2cm);
     -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMCAtNy42NCAyMCAxNy44MyI+Cgk8cGF0aCBkPSJNIC0xMCAxMCBRIDEwIDEyIDEwIC03IFEgLTEwIC0xMSAtMTAgMTAiIGZpbGw9IiMwMDAwMDAiLz4KPC9zdmc+);
     -webkit-mask-repeat: no-repeat;
+    position: relative;
 }
 
 .boxs{
