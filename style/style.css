@@ -24,6 +24,7 @@ button{
     border: 1px solid  rgba(132, 0, 255, 0.445);
     border-radius: 2px;
     box-shadow: 0 0 2px;
+    transform: translateY(0.3cm);
 }
 
 button:hover{
@@ -71,6 +72,13 @@ button:hover{
     padding-left: 1cm;
 }
 
+h1{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+}
+
 img{
     width: 50%;
     transform: translateX(-1cm) translateY(-2cm);
@@ -106,10 +114,20 @@ img{
     width: 150px; height: 10cm;
     background-color: white;
 }
+
 .box-link3{
     width: 150px; height: 10cm;
-    
+    background-color: rgba(132, 0, 255, 0.445);
 }
+
+.box-link3:hover{
+    background-color:  rgb(191, 94, 236);
+}
+
+.box-link3:hover{
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
 .box-link2{
     width: 150px; height: 10cm;
     background-color: white;
