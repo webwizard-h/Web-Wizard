@@ -90,25 +90,22 @@ img{
 
 .boxs{
     display: inline-flex;
-    border: 1cm gray; 
+    border: 2cm gray; 
     transform: translateX(-1cm);
 }
 
 .box1{
     padding: 25px;
-    padding-right: 0;
     width: 25%;
 }
 
 .box2{
     padding: 25px;
-    padding-right: 0;
     width: 25%;
 }
 
 .box3{
     padding: 25px;
-    padding-right: 0;
     width: 25%;
 }
 
