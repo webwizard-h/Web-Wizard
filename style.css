@@ -37,11 +37,19 @@ p {
 }
 
 .notify-form {
-    justify-content: center;
+    justify-content: left;
     align-items: center;
 }
 
 .notify-form input {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+}
+
+.notify-form textarea {
     padding: 10px;
     font-size: 1em;
     border: 1px solid #ddd;
