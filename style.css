@@ -37,13 +37,11 @@ p {
 }
 
 .notify-form {
-    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .notify-form input {
-    line-break: normal;
     padding: 10px;
     font-size: 1em;
     border: 1px solid #ddd;
