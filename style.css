@@ -43,6 +43,7 @@ p {
 }
 
 .notify-form input {
+    line-break: normal;
     padding: 10px;
     font-size: 1em;
     border: 1px solid #ddd;
