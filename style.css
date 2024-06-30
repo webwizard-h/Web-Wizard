@@ -42,7 +42,7 @@ p {
     align-items: center;
 }
 
-.notify-form {
+.notify-form input {
     padding: 10px;
     font-size: 1em;
     border: 1px solid #ddd;
