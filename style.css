@@ -50,7 +50,7 @@ p {
 }
 
 .notify-form1 {
-    transform: translateY(-0.2cm);
+    transform: translateY(0.5cm);
     padding: 10px;
     font-size: 1em;
     border: 1px solid #ddd;
